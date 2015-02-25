@@ -281,14 +281,6 @@
                         <para>The default binding for the MySQL
                             instance is port 3306.</para>
                     </listitem>
-                    <listitem>
-                        <para>Database instances are directly
-                            accessible only on the internal ServiceNet
-                            network and using a Cloud resource within
-                            the same regional datacenter. For example,
-                            a database instance in DFW can only be
-                            accessed by a Cloud Server in DFW.</para>
-                    </listitem>
                 </itemizedlist></note>
         </wadl:doc>
         <request>
